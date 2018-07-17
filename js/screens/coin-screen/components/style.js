@@ -12,4 +12,8 @@ export default StyleSheet.create({
     justifyContent: 'center',
     padding: 8,
   },
+  CoinCard : {
+    flex : 1,
+    backgroundColor: "blue"
+  }
 });
